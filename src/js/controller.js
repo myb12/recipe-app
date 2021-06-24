@@ -9,12 +9,6 @@ import addRecipeView from './views/addRecipeView.js';
 import 'core-js/stable';
 import 'regenerator-runtime';
 
-// if (module.hot) {
-//   module.hot.accept();
-// }
-
-// console.log(icon);
-
 const recipeContainer = document.querySelector('.recipe');
 
 // https://forkify-api.herokuapp.com/v2
